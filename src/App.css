@@ -1,0 +1,13 @@
+
+Button{
+  border: 2px solid red;
+  width: 25%
+
+ }
+ #content{
+   width: 75%;
+   margin: auto
+ }
+ #screen{
+  font-size: 30px
+ }
